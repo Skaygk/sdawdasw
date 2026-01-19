@@ -1,0 +1,11 @@
+{
+  "token": "MTQ2MjY5MDY2Mjc5MjE2NzU4Ng.GTDHPB.yMD4hZz7cf5liDdMccti4wy9eobS9DJUf_Ajes",
+  "skip_disclaimer": true,
+  "skip_booting": true,
+  "minimum_dm_delay": 0.1,
+  "maximum_dm_delay": 0.1,
+  "minimum_ban_delay": 0.1,
+  "maximum_ban_delay": 0.1,
+  "minimum_general_delay": 0.1,
+  "maximum_general_delay": 0.1
+}
